@@ -1,16 +1,28 @@
-## Hi there 👋
-
-<!--
-**hu-matin/hu-matin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <div>
+    <h1>About me</h1>
+    <br>
+    <p>Hi I'm <b>Matin.</b><br>
+    <br>
+    I started my programming journey about a year ago. Since then,<br>
+    I've gained solid skills in <b>Python, JavaScript, HTML, CSS, and Git.</b> I enjoy building projects that combine front-end,
+    and I'm always eager to learn new tools and improve my coding abilities. Programming has become my passion, and I'm excited to keep growing and contributing to the developer community!</p><br>
+    <hr>
+    <br>
+  </div>
+  
+  <div align="center">
+    <h1>"My Expertise"</h1><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,sqlite,git,github,bootstrap" alt="icons">
+  </div><br><hr>
+  
+  <div align="center">
+    <h1>Follow me</h1><br>
+    <p>You can follow me in social media.</p><br>
+    <a href="https://www.linkedin.com/in/matin-yarzadeh-3155ba361"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"></a>
+    <a href=""><img src="" alt=""></a>
+    <a href=""><img src="" alt=""></a>
+  </div>
+  
+  
+</div>
