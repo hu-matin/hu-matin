@@ -12,15 +12,15 @@
   </div>
   
   <div align="center">
-    <h1>"My Expertise"</h1><br>
+    <h1>My Expertise</h1><br>
     <img src="https://skillicons.dev/icons?i=html,css,js,python,sqlite,git,github,bootstrap" alt="icons">
   </div><br><hr>
   
   <div align="center">
     <h1>Follow me</h1><br>
-    <p>You can follow me in social media.</p><br>
-    <a href="https://www.linkedin.com/in/matin-yarzadeh-3155ba361"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"></a>
-    <a href=""><img src="" alt=""></a>
+    <b><p>You can follow me in social media.</p><br></b>
+    <a href="https://www.linkedin.com/in/matin-yarzadeh-3155ba361"><img src="https://www.svgrepo.com/show/70809/linkedin.svg" alt="linkedin" width='40px'></a>
+    <a href="https://t.me/hu_Matin"><img src="https://www.svgrepo.com/show/303292/telegram-logo.svg" alt="telegram" width='40px'></a>
     <a href=""><img src="" alt=""></a>
   </div>
   
