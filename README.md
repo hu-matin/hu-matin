@@ -4,7 +4,7 @@
     <br>
     <p>Hi I'm <b>Matin.</b><br>
     <br>
-    I started my programming journey about a year ago. Since then,<br>
+    I started my programming journey about a year ago. Since then<br>
     I've gained solid skills in <b>Python, JavaScript, HTML, CSS, and Git.</b> I enjoy building projects that combine front-end,
     and I'm always eager to learn new tools and improve my coding abilities. Programming has become my passion, and I'm excited to keep growing and contributing to the developer community!</p><br>
     <hr>
