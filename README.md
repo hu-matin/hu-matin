@@ -24,5 +24,4 @@
     <a href=""><img src="" alt=""></a>
   </div>
   
-  
 </div>
