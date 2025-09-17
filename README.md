@@ -11,7 +11,7 @@
     <br>
   </div>
   
-  <div align="center">
+  <div>
     <h1>My Expertise</h1><br>
     <img src="https://skillicons.dev/icons?i=html,css,js,python,sqlite,git,github,bootstrap" alt="icons">
   </div><br><hr>
