@@ -13,10 +13,10 @@
   
   <div>
     <h1>My Expertise</h1><br>
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,sqlite,git,github,bootstrap" alt="icons">
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,sqlite,git,github,bootstrap" alt="icons" align='center'>
   </div><br><hr>
   
-  <div align="center">
+  <div>
     <h1>Follow me</h1><br>
     <b><p>You can follow me in social media.</p><br></b>
     <a href="https://www.linkedin.com/in/matin-yarzadeh-3155ba361"><img src="https://www.svgrepo.com/show/70809/linkedin.svg" alt="linkedin" width='40px'></a>
