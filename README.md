@@ -1,27 +1,46 @@
 <div>
+  <h1>About Me:</h1><br>
+  <p>Hi I'm <b>Matin.<b><br>I started my programming journey about a year ago. Since then<br>I've gained solid skills in Python, JavaScript, HTML, CSS, and Git.<br>I enjoy building projects that combine front-end, and I'm always eager to learn new tools and improve my coding abilities.<br>Programming has become my passion, and I'm excited to keep growing and contributing to the developer community!</p>
+  
+  
+  <h1>Socials:</h1><br>
   <div>
-    <h1>About me</h1>
-    <br>
-    <p>Hi I'm <b>Matin.</b><br>
-    <br>
-    I started my programming journey about a year ago. Since then<br>
-    I've gained solid skills in <b>Python, JavaScript, HTML, CSS, and Git.</b> I enjoy building projects that combine front-end,
-    and I'm always eager to learn new tools and improve my coding abilities. Programming has become my passion, and I'm excited to keep growing and contributing to the developer community!</p><br>
-    <hr>
-    <br>
+    <a href='https://linkedin.com/in/matin-yarzadeh-3155ba361'><img src='https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white'></a>
+    <a href='mailto:matinyarzadeh13@gmail.com'><img src='https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white'></a>
+  </div>
+  <br>
+  
+  
+  <h1>Tech Stack:</h1><br>
+  <br>
+  <div align='center'>
+    <img src='https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54' alt='Python'>
+    <img src='https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E' alt='Javascript'>
+    <img src='https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white' alt='HTML'>
+    <img src='https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white' alt='CSS'>
+    <img src='https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white' alt='Bootstrap'>
+    <img src='https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white' alt='SQLite'>
+    <img src='https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white' alt='Canva'>
+    <img src='https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white' alt='Figma'>
+    <img src='https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white' alt='Git'>
+    <img src='https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white' alt='Github'>
   </div>
   
-  <div>
-    <h1>My Expertise</h1><br>
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,sqlite,git,github,bootstrap" alt="icons" align='center'>
-  </div><br><hr>
+  <h1>GitHub Stats:</h1><br>
+  <div align='center'>
+    <img src='https://github-readme-stats.vercel.app/api?username=hu-matin&theme=dark&hide_border=false&include_all_commits=true&count_private=false'><br/>
+    <img src='https://nirzak-streak-stats.vercel.app/?user=hu-matin&theme=dark&hide_border=false'><br/>
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=hu-matin&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact'>
+  </div>
   
-  <div>
-    <h1>Follow me</h1><br>
-    <b><p>You can follow me in social media.</p><br></b>
-    <a href="https://www.linkedin.com/in/matin-yarzadeh-3155ba361"><img src="https://www.svgrepo.com/show/70809/linkedin.svg" alt="linkedin" width='40px'></a>
-    <a href="https://t.me/hu_Matin"><img src="https://www.svgrepo.com/show/303292/telegram-logo.svg" alt="telegram" width='40px'></a>
-    <a href=""><img src="" alt=""></a>
-  </div><br>
+  <h1>GitHub Trophies</h1><br>
+  <div align='center'>
+    <img src='https://github-profile-trophy.vercel.app/?username=hu-matin&theme=radical&no-frame=false&no-bg=true&margin-w=4' alt='Trophies'>
+  </div>
   
+  <h1>Top Contributed Repo</h1><br>
+  <div align='center'>
+    <img src='https://github-contributor-stats.vercel.app/api?username=hu-matin&limit=5&theme=dark&combine_all_yearly_contributions=true' alt='Repo'>
+    <hr>
+  </div>
 </div>
