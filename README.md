@@ -40,7 +40,7 @@
   
   <h1>Top Contributed Repo</h1><br>
   <div align='center'>
-    <img src='https://github-contributor-stats.vercel.app/api?username=hu-matin&limit=5&theme=dark&combine_all_yearly_contributions=true' alt='Repo'>
+    <img src='https://github-contributor-stats.vercel.app/api?username=hu-matin&amp;limit=5&amp;theme=dark&amp;combine_all_yearly_contributions=true' alt='Repo'>
     <hr>
   </div>
 </div>
