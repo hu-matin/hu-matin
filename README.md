@@ -28,9 +28,9 @@
   
   <h1>GitHub Stats:</h1><br>
   <div align='center'>
-    <img src='https://github-readme-stats.vercel.app/api?username=hu-matin&theme=dark&hide_border=false&include_all_commits=true&count_private=false'><br/>
-    <img src='https://nirzak-streak-stats.vercel.app/?user=hu-matin&theme=dark&hide_border=false'><br/>
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=hu-matin&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact'>
+    <img src='https://github-readme-stats.vercel.app/api?username=hu-matin&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false'><br/>
+    <img src='https://nirzak-streak-stats.vercel.app/?user=hu-matin&amp;theme=dark&amp;hide_border=false'><br/>
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=hu-matin&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact'>
   </div>
   
   <h1>GitHub Trophies</h1><br>
