@@ -26,7 +26,6 @@
     <img src='https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white' alt='Figma'>
     <img src='https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white' alt='Git'>
     <img src='https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white' alt='Github'>
-    
   </div>
   
   <h1>GitHub Stats:</h1><br>
