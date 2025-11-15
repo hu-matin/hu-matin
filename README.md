@@ -11,7 +11,7 @@
   <h1>Tech Stack:</h1><br>
   <br>
   <div align='center'>
-    <img src='https://skillicons.dev/icons?i=python,sqlite,fastapi,selenium,mysql,js,html,css,tailwindcss,git,postman,github,figma' alt='social'></br>
+    <img src='https://skillicons.dev/icons?i=python,sqlite,fastapi,selenium,mysql,lua,js,html,css,tailwindcss,git,postman,github,figma' alt='social'></br>
   </div>
   
   <h1>GitHub Stats:</h1><br>
